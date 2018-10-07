@@ -2,7 +2,6 @@
 layout: default
 title: 张杰
 ---
-
 # 张杰
 张杰，1982年12月20日出生于四川成都，毕业于四川师范大学，内地流行男歌手，音乐厂牌“行星文化”创始人。
 ![Jason Zhang](image.baidu.com/search/detail?ct=503316480&z=0&ipn=false&word=%E5%BC%A0%E6%9D%B0&hs=0&pn=-1&spn=0&di=baikeimg&pi=&rn=1&tn=baiduimagedetail&is=&istype=&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=&lpn=0&ln=undefined&fr=&fmq=undefined&fm=undefined&ic=&s=&se=&sme=&tab=&width=&height=&face=&cg=star&bdtype=0&oriquery=&objurl=http%3A%2F%2Fa.hiphotos.baidu.com%2Fbaike%2Fpic%2Fitem%2F64380cd7912397dd11d619e15e82b2b7d1a287ac.jpg&fromurl=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%E5%BC%A0%E6%9D%B0%2F256&gsm=&islist=&querylist=
