@@ -1,19 +1,26 @@
----
-layout: default
-title: 张杰
----
-# 张杰
-张杰，1982年12月20日出生于四川成都，毕业于四川师范大学，内地流行男歌手，音乐厂牌“行星文化”创始人。
-![](image.baidu.com/search/detail?ct=503316480&z=0&ipn=false&word=%E5%BC%A0%E6%9D%B0&hs=0&pn=-1&spn=0&di=baikeimg&pi=&rn=1&tn=baiduimagedetail&is=&istype=&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=&lpn=0&ln=undefined&fr=&fmq=undefined&fm=undefined&ic=&s=&se=&sme=&tab=&width=&height=&face=&cg=star&bdtype=0&oriquery=&objurl=http%3A%2F%2Fa.hiphotos.baidu.com%2Fbaike%2Fpic%2Fitem%2F64380cd7912397dd11d619e15e82b2b7d1a287ac.jpg&fromurl=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%E5%BC%A0%E6%9D%B0%2F256&gsm=&islist=&querylist=
-)
-##2004年张杰获我型我秀全国总冠军出道
-![](image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%BC%A0%E6%9D%B02004%E5%B9%B4%E8%8E%B7%E6%88%91%E5%9E%8B%E6%88%91%E7%A7%80%E5%85%A8%E5%9B%BD%E6%80%BB%E5%86%A0%E5%86%9B%E5%87%BA%E9%81%93&step_word=&hs=0&pn=0&spn=0&di=3477683551&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1033000303%2C1126302995&os=258332198%2C2125865092&simid=0%2C0&adpicid=0&lpn=0&ln=1433&fr=&fmq=1538051870018_R&fm=result&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fdingyue.nosdn.127.net%2FmXeAfDSabdsFIzy27714Royp3p6m%3D1z9P16hHhT1VqryM1530063298307.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3F1y_z%26e3B8mn_z%26e3Bv54AzdH3FedAzdH3Fw6ptvsjAzdH3F1jpwtsAzdH3FDLAdFnK0ac80KDNd_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=
-)
-##2013年首登央视春晚演唱《给我你的爱》
-![](image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%BC%A0%E6%9D%B02013%E5%B9%B4%E9%A6%96%E7%99%BB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%BC%94%E5%94%B1%E3%80%8A%E7%BB%99%E6%88%91%E4%BD%A0%E7%9A%84%E7%88%B1%E3%80%8B&step_word=&hs=0&pn=0&spn=0&di=17887785630&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2533730835%2C2648125795&os=1180262239%2C1248281142&simid=3454536546%2C522095633&adpicid=0&lpn=0&ln=1895&fr=&fmq=1538051976661_R&fm=result&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimg0.sc115.com%2Fhb%2Fyl1%2F16%2F881509001037800.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bfv88c_z%26e3Bv54AzdH3FikAzdH3Fncc98_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=
-)
-至今已发行12张唱片，举办47场个人演唱会，获33次“最受欢迎男歌手”和16次“最佳男歌手”奖，达成内地乐坛“最受欢迎男歌手”大满贯 ，三度献唱好莱坞电影（《星际迷航3》《间谍同盟》《变形金刚5》  三度献唱央视春晚。
-[变形金刚5 MV](https://www.iqiyi.com/w_19rtq6cavx.html)
-此外，张杰致力于慈善公益事业，2012年创立北斗星空爱心基金，累计创建29间“张杰音乐梦想教室”，获中国儿童慈善奖-突出贡献奖  、位列中国慈善名人榜第22位 。
-![](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%BC%A0%E6%9D%B0%20%E6%85%88%E5%96%84&step_word=&hs=0&pn=6&spn=0&di=182130007840&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=443875482%2C796224019&os=2741910042%2C949996576&simid=3510858552%2C338146452&adpicid=0&lpn=0&ln=1278&fr=&fmq=1538052441710_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%3D580%2Fsign%3Ddff701cf9e3df8dca63d8f99fd1172bf%2F2607b639b6003af395bfd358342ac65c1138b6d1.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fptjkwv_z%26e3Bkwt17_z%26e3Bv54AzdH3FrAzdH3Fd8nncmdacd&gsm=0&rpstart=0&rpnum=0&islist=&querylist=
-)
+#我的第一个博客
+给大家介绍一位计算机大佬
+
+他就是————艾伦·麦席森·图灵
+![](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=ab6207ab13ce36d3b6098b625b9a51e2/9e3df8dcd100baa13dc6bcca4110b912c9fc2edd.jpg)
+《科学美国人》这样评价图灵性情矛盾的一生：“个人生活隐秘又喜欢大众读物和公共广播，自信满怀又异常谦卑。一个核心的悖论是，他认为电脑能够跟人脑并驾齐驱，但是他本人的个性却是率性而为、我行我素、无法预见，一点也不像机器输出来的东西。”
+![](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D480/sign=60ed9db5573d26972ed3095565fbb24f/14ce36d3d539b600faf2afc8ef50352ac65cb795.jpg)
+##接下来给大家说说他的成就
+###Ⅰ可计算性理论
+这种思想开启了后来计算机科学中计算复杂性理论的先河。（NB）
+###判定问题
+###电子计算机
+###人工智能
+###数理生物学
+###图灵试验
+##主要荣誉
+1926年，图灵考入英国著名的谢伯恩公学，在中学时就获得了国王爱德华六世数学金盾奖章。
+1932年，荣获英国著名的史密斯数学奖。
+1946年，由于他在二战中为破译德军密码做出的巨大贡献，获得“不列颠帝国勋章”，这是英国皇室授予为国家和人民做出巨大贡献者的最高荣誉勋章。 
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539871278&di=5d9705b5d7e9600519e5da93f2deb13c&imgtype=jpg&er=1&src=http%3A%2F%2Fimg8.010lm.com%2F170711%2F151G523R-2.jpg)
+##人物评价
+图灵不但以破译密码而名闻天下，他在人工智能和计算机等领域也作出了重要贡献，他常被认为是现代计算机科学的创始人。战争结束后，在曼彻斯特大学工作的他研制了“曼彻斯特马克一号”———著名的现代计算机之一。1999年，他被《时代》杂志评选为20世纪100个最重要的人物之一。
+2012年，是一个伟人的百年诞辰。即使我们把所有崇高的致意奉献给他都不为过。他就是艾伦·图灵。100年前，艾伦·图灵诞生在一个文化和科技水平都与如今完全不同的时代里，但这并不影响他成为今天最伟大最值得纪念的人之一。他为计算机领域奠定了不可埋没的基础，没有他就没有计算机的今天。（2012年6月23号是图灵诞辰100年纪念日，BBC在发表了一系列的纪念性文章，其中就有图灵奖获得者、Google资深副总裁兼首席因特网专家文特·瑟夫的这些评价）
+
+
+***图灵在破解二战德军密码、拯救国家上发挥了关键作用，是一个“了不起的人”。***           ————英国首相卡梅伦
