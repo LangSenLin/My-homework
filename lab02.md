@@ -1,4 +1,4 @@
-#02-制作 HTML5 游戏
+# 02-制作 HTML5 游戏
 
 咱先上图    
 ![](http://a3.qpic.cn/psb?/V12Xtk2X3YDMgU/WQm3skTneywVWhGkv4sj7q4K*3.iJ7KO0hAqyzFh4A4!/m/dC4BAAAAAAAA&rf=albumlist&t=5)    
@@ -15,4 +15,4 @@
 
 
 
-     ##**个人感想：多动手还是好的**
+     ## ** 个人感想：多动手还是好的 **

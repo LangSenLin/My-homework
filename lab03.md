@@ -1,4 +1,4 @@
-#斯蒂芬妮·雪莉——Xansa创始人       
+# 斯蒂芬妮·雪莉——Xansa创始人       
 明天永远不会像今天这样，当然也不能像昨天那样。...      
 她的名字叫做黛姆·斯蒂芬妮·雪莉(DameStephanieShirley)，Xansa创始人，今年83岁了。            
  ![](http://5b0988e595225.cdn.sohucs.com/images/20170824/f37e6da475b74760be486cbec761597d.jpeg)        
