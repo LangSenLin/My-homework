@@ -1,4 +1,11 @@
-### 1）伪代码
+# 自顶向下，逐步求精   
+![](https://img-blog.csdn.net/20171130122542055?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveno5NjI5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
+
+
+
+# 1）伪代码
     1.Choose the Pattern        
     2.Press the  switch           
     3.water_in_switch(open_close)       
@@ -14,7 +21,7 @@
     13.stop           
     14.time_counter()        
     15.halt(returncode)           
-### 2）             
+# 2）             
 	if(开始运作)            
 		注水；            
 	if（达到一定高度）           
