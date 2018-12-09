@@ -2,6 +2,7 @@
 # 任务一   &&   任务二  
 
 ###  sneak——move & snake——eat
+![](http://m.qpic.cn/psb?/V12RJg2C0qahST/aHWDf1yiEnZDjDc6EP8QcKsSqeY5hMGp7U9XSCgqZ5w!/b/dEcBAAAAAAAA&bo=SwJBAgAAAAADByg!&rf=viewer_4)    
 ```
 输出字符矩阵
 	WHILE not 游戏结束 DO
